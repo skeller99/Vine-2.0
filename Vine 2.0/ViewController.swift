@@ -17,7 +17,9 @@ class ViewController: UIViewController {
         
         // Do any additional setup after loading the view, typically from a nib.
         
-        
+        // get sound
+        // add sound to folder
+        // add to xcode
          
     }
 
