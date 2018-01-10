@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		598280A120066B750079C182 /* SwiftGif.swift in Sources */ = {isa = PBXBuildFile; fileRef = 598280A020066B750079C182 /* SwiftGif.swift */; };
 		BC01FB041FFD253F0027C1AD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC01FB031FFD253F0027C1AD /* AppDelegate.swift */; };
 		BC01FB061FFD253F0027C1AD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC01FB051FFD253F0027C1AD /* ViewController.swift */; };
 		BC01FB091FFD253F0027C1AD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC01FB071FFD253F0027C1AD /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		598280A020066B750079C182 /* SwiftGif.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftGif.swift; sourceTree = "<group>"; };
 		BC01FB001FFD253F0027C1AD /* Vine 2.0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Vine 2.0.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC01FB031FFD253F0027C1AD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BC01FB051FFD253F0027C1AD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				BC01FB031FFD253F0027C1AD /* AppDelegate.swift */,
 				BC17968820051F5100C3E9D4 /* MattCorbyResolution.mp3 */,
 				BC01FB051FFD253F0027C1AD /* ViewController.swift */,
+				598280A020066B750079C182 /* SwiftGif.swift */,
 				BC01FB071FFD253F0027C1AD /* Main.storyboard */,
 				BC01FB0D1FFD253F0027C1AD /* Assets.xcassets */,
 				BC01FB0F1FFD25400027C1AD /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				598280A120066B750079C182 /* SwiftGif.swift in Sources */,
 				BC01FB061FFD253F0027C1AD /* ViewController.swift in Sources */,
 				BC01FB041FFD253F0027C1AD /* AppDelegate.swift in Sources */,
 				BC01FB0C1FFD253F0027C1AD /* Vine_2_0.xcdatamodeld in Sources */,
