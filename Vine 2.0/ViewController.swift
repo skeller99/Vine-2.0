@@ -57,22 +57,27 @@ class ViewController: UIViewController{
     
     @IBOutlet weak var Image7: UIImageView!
     @IBAction func Image7Button(_ sender: UIButton) {
+        playAudioFile7()
     }
     
     @IBOutlet weak var Image8: UIImageView!
     @IBAction func Image8Button(_ sender: UIButton) {
+        playAudioFile8()
     }
     
     @IBOutlet weak var Image9: UIImageView!
     @IBAction func Image9Button(_ sender: UIButton) {
+        playAudioFile9()
     }
     
     @IBOutlet weak var Image10: UIImageView!
     @IBAction func Image10Button(_ sender: UIButton) {
+        playAudioFile10()
     }
     
     @IBOutlet weak var Image11: UIImageView!
     @IBAction func Image11Button(_ sender: UIButton) {
+        playAudioFile11()
     }
     
     @IBOutlet weak var Image12: UIImageView!
@@ -110,7 +115,7 @@ class ViewController: UIViewController{
     
     func playAudioFile3() {
         
-        if let path = Bundle.main.path(forResource: "Almost Dropped His CroissantLDT best Vines.mp3", ofType: nil){
+        if let path = Bundle.main.path(forResource: "Almost Dropped His CroissantLDTbest Vines.mp3", ofType: nil){
             let url = URL(fileURLWithPath: path)
             audioPlayer = try! AVAudioPlayer(contentsOf: url)
             audioPlayer.prepareToPlay()
@@ -166,7 +171,48 @@ class ViewController: UIViewController{
     
     func playAudioFile7() {
         
-        if let path = Bundle.main.path(forResource: ".mp3", ofType: nil){
+        if let path = Bundle.main.path(forResource: "Kenny Knox  - Big Time Rush VINE.mp3", ofType: nil){
+            let url = URL(fileURLWithPath: path)
+            audioPlayer = try! AVAudioPlayer(contentsOf: url)
+            audioPlayer.prepareToPlay()
+            audioPlayer.play()
+        } else {
+            print("audio not playing")
+            
+        }
+        
+    }
+    func playAudioFile8() {
+        
+        if let path = Bundle.main.path(forResource: "give me my hat back jordan.mp3", ofType: nil){
+            let url = URL(fileURLWithPath: path)
+            audioPlayer = try! AVAudioPlayer(contentsOf: url)
+            audioPlayer.prepareToPlay()
+            audioPlayer.play()
+        } else {
+            print("audio not playing")
+            
+        }
+        
+    }
+    
+    func playAudioFile9() {
+        
+        if let path = Bundle.main.path(forResource: "Iridocyclitis vine  the best thing ever.mp3", ofType: nil){
+            let url = URL(fileURLWithPath: path)
+            audioPlayer = try! AVAudioPlayer(contentsOf: url)
+            audioPlayer.prepareToPlay()
+            audioPlayer.play()
+        } else {
+            print("audio not playing")
+            
+        }
+        
+    }
+    
+    func playAudioFile10() {
+        
+        if let path = Bundle.main.path(forResource: "I aint get no sleep cause of yall vine.mp3", ofType: nil){
             let url = URL(fileURLWithPath: path)
             audioPlayer = try! AVAudioPlayer(contentsOf: url)
             audioPlayer.prepareToPlay()
@@ -178,6 +224,31 @@ class ViewController: UIViewController{
         
     }
 
+    func playAudioFile11() {
+        
+        if let path = Bundle.main.path(forResource: "Scared Man Sings Chandelier.mp3", ofType: nil){
+            let url = URL(fileURLWithPath: path)
+            audioPlayer = try! AVAudioPlayer(contentsOf: url)
+            audioPlayer.prepareToPlay()
+            audioPlayer.play()
+        } else {
+            print("audio not playing")
+            
+        }
+        
+    }
     
-
+    func playAudioFile12() {
+        
+        if let path = Bundle.main.path(forResource: "Thats my opinion Vine.mp3", ofType: nil){
+            let url = URL(fileURLWithPath: path)
+            audioPlayer = try! AVAudioPlayer(contentsOf: url)
+            audioPlayer.prepareToPlay()
+            audioPlayer.play()
+        } else {
+            print("audio not playing")
+            
+        }
+        
+    }
 }

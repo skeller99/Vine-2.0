@@ -22,6 +22,12 @@
 		BC57FE9C200911A60067117A /* She wants to take a nap.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC57FE9B200911A60067117A /* She wants to take a nap.mp3 */; };
 		BC57FE9E200911D50067117A /* Hi Welcome To Chilis Vine.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC57FE9D200911D40067117A /* Hi Welcome To Chilis Vine.mp3 */; };
 		BC57FEA0200E43620067117A /* SOMEBODY TOUCHA MY SPAGHET.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC57FE9F200E43620067117A /* SOMEBODY TOUCHA MY SPAGHET.mp3 */; };
+		BC57FEA2200E47F70067117A /* Kenny Knox  - Big Time Rush VINE.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC57FEA1200E47F70067117A /* Kenny Knox  - Big Time Rush VINE.mp3 */; };
+		BC57FEA4200E47FF0067117A /* give me my hat back jordan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC57FEA3200E47FF0067117A /* give me my hat back jordan.mp3 */; };
+		BC57FEA6200E48060067117A /* Iridocyclitis vine  the best thing ever.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC57FEA5200E48060067117A /* Iridocyclitis vine  the best thing ever.mp3 */; };
+		BC57FEA8200E48280067117A /* I aint get no sleep cause of yall vine.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC57FEA7200E48280067117A /* I aint get no sleep cause of yall vine.mp3 */; };
+		BC57FEAA200E4B5B0067117A /* Scared Man Sings Chandelier.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC57FEA9200E4B5B0067117A /* Scared Man Sings Chandelier.mp3 */; };
+		BC57FEAC200E4D770067117A /* Thats my opinion Vine.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC57FEAB200E4D770067117A /* Thats my opinion Vine.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +48,12 @@
 		BC57FE9B200911A60067117A /* She wants to take a nap.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "She wants to take a nap.mp3"; sourceTree = "<group>"; };
 		BC57FE9D200911D40067117A /* Hi Welcome To Chilis Vine.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Hi Welcome To Chilis Vine.mp3"; sourceTree = "<group>"; };
 		BC57FE9F200E43620067117A /* SOMEBODY TOUCHA MY SPAGHET.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "SOMEBODY TOUCHA MY SPAGHET.mp3"; sourceTree = "<group>"; };
+		BC57FEA1200E47F70067117A /* Kenny Knox  - Big Time Rush VINE.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Kenny Knox  - Big Time Rush VINE.mp3"; sourceTree = "<group>"; };
+		BC57FEA3200E47FF0067117A /* give me my hat back jordan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "give me my hat back jordan.mp3"; sourceTree = "<group>"; };
+		BC57FEA5200E48060067117A /* Iridocyclitis vine  the best thing ever.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Iridocyclitis vine  the best thing ever.mp3"; sourceTree = "<group>"; };
+		BC57FEA7200E48280067117A /* I aint get no sleep cause of yall vine.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "I aint get no sleep cause of yall vine.mp3"; sourceTree = "<group>"; };
+		BC57FEA9200E4B5B0067117A /* Scared Man Sings Chandelier.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Scared Man Sings Chandelier.mp3"; sourceTree = "<group>"; };
+		BC57FEAB200E4D770067117A /* Thats my opinion Vine.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Thats my opinion Vine.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +95,12 @@
 				BC57FE9B200911A60067117A /* She wants to take a nap.mp3 */,
 				BC57FE9D200911D40067117A /* Hi Welcome To Chilis Vine.mp3 */,
 				BC57FE9F200E43620067117A /* SOMEBODY TOUCHA MY SPAGHET.mp3 */,
+				BC57FEA1200E47F70067117A /* Kenny Knox  - Big Time Rush VINE.mp3 */,
+				BC57FEA3200E47FF0067117A /* give me my hat back jordan.mp3 */,
+				BC57FEA5200E48060067117A /* Iridocyclitis vine  the best thing ever.mp3 */,
+				BC57FEA7200E48280067117A /* I aint get no sleep cause of yall vine.mp3 */,
+				BC57FEA9200E4B5B0067117A /* Scared Man Sings Chandelier.mp3 */,
+				BC57FEAB200E4D770067117A /* Thats my opinion Vine.mp3 */,
 				BC01FB051FFD253F0027C1AD /* ViewController.swift */,
 				598280A020066B750079C182 /* SwiftGif.swift */,
 				BC01FB071FFD253F0027C1AD /* Main.storyboard */,
@@ -154,15 +172,21 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC01FB111FFD25400027C1AD /* LaunchScreen.storyboard in Resources */,
+				BC57FEA2200E47F70067117A /* Kenny Knox  - Big Time Rush VINE.mp3 in Resources */,
+				BC57FEA8200E48280067117A /* I aint get no sleep cause of yall vine.mp3 in Resources */,
 				BC57FE9A200910FB0067117A /* More like hurricane tortilla VINE.mp3 in Resources */,
 				BC01FB0E1FFD253F0027C1AD /* Assets.xcassets in Resources */,
+				BC57FEAC200E4D770067117A /* Thats my opinion Vine.mp3 in Resources */,
 				BC57FE962009105D0067117A /* look at all those chickens.mp3 in Resources */,
+				BC57FEA6200E48060067117A /* Iridocyclitis vine  the best thing ever.mp3 in Resources */,
 				BC57FE9C200911A60067117A /* She wants to take a nap.mp3 in Resources */,
 				BC57FE9E200911D50067117A /* Hi Welcome To Chilis Vine.mp3 in Resources */,
 				BC01FB091FFD253F0027C1AD /* Main.storyboard in Resources */,
+				BC57FEA4200E47FF0067117A /* give me my hat back jordan.mp3 in Resources */,
 				BC57FE98200910B90067117A /* Almost Dropped His CroissantLDTbest Vines.mp3 in Resources */,
 				BC57FEA0200E43620067117A /* SOMEBODY TOUCHA MY SPAGHET.mp3 in Resources */,
 				BC57FE9420090DC60067117A /* I Smell Like Beef.mp3 in Resources */,
+				BC57FEAA200E4B5B0067117A /* Scared Man Sings Chandelier.mp3 in Resources */,
 				BC17968920051F5100C3E9D4 /* MattCorbyResolution.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
