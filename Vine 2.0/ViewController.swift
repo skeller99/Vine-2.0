@@ -13,6 +13,18 @@ class ViewController: UIViewController{
     
     @IBOutlet weak var myLabel: UILabel!
 //    self.myLabel = UIColor.whiteColor()
+    @IBOutlet weak var image1: UIImageView!
+    @IBOutlet weak var image2: UIImageView!
+    @IBOutlet weak var image3: UIImageView!
+    @IBOutlet weak var image4: UIImageView!
+    @IBOutlet weak var image5: UIImageView!
+    @IBOutlet weak var image6: UIImageView!
+    @IBOutlet weak var image7: UIImageView!
+    @IBOutlet weak var image8: UIImageView!
+    @IBOutlet weak var image9: UIImageView!
+    @IBOutlet weak var image10: UIImageView!
+    @IBOutlet weak var image11: UIImageView!
+    @IBOutlet weak var image12: UIImageView!
     
     var audioPlayer:AVAudioPlayer = AVAudioPlayer()
    
@@ -20,77 +32,67 @@ class ViewController: UIViewController{
         super.viewDidLoad()
         
         myLabel.textColor = UIColor.white
+        
+        image1.image = #imageLiteral(resourceName: "I Smell Like Beef")
+        image2.image = #imageLiteral(resourceName: "Look At All Those Chickens")
+        image3.image = #imageLiteral(resourceName: "Almost Dropped My Croissant")
+        image4.image = #imageLiteral(resourceName: "More Like Hurricane Tortilla")
+        image5.image = #imageLiteral(resourceName: "More Like Hurricane Tortilla")
+        image6.image = #imageLiteral(resourceName: "welcome to chilis")
+        image7.image = #imageLiteral(resourceName: "Big Time Rush")
+        image8.image = #imageLiteral(resourceName: "give me my hat back jordan")
+        image9.image = #imageLiteral(resourceName: "iridocyclitis")
+        image10.image = #imageLiteral(resourceName: "i aint get no sleep cause of yall")
+        image11.image = #imageLiteral(resourceName: "sings chandelier")
+        image12.image = #imageLiteral(resourceName: "thats my opinion")
     }
    
 
-    @IBOutlet weak var Image1: UIImageView!
-    var image1 = #imageLiteral(resourceName: "I Smell Like Beef")
+//    var image1: UIImage = #imageLiteral(resourceName: "I Smell Like Beef")
     @IBAction func Image1Button(_ sender: UIButton) {
         playAudioFile()
     }
     
-    @IBOutlet weak var Image2: UIImageView!
-    var image2 = #imageLiteral(resourceName: "Look At All Those Chickens")
     @IBAction func Image2Button(_ sender: UIButton) {
         playAudioFile2()
     }
     
-    @IBOutlet weak var Image3: UIImageView!
-    var image3 = #imageLiteral(resourceName: "Almost Dropped My Croissant")
     @IBAction func Image3Button(_ sender: UIButton) {
         playAudioFile3()
     }
     
-    @IBOutlet weak var Image4: UIImageView!
-    var image4 = #imageLiteral(resourceName: "More Like Hurricane Tortilla")
     @IBAction func Image4Button(_ sender: UIButton) {
         playAudioFile4()
     }
     
-    @IBOutlet weak var Image5: UIImageView!
-    var image5 = #imageLiteral(resourceName: "Take A Nap")
     @IBAction func Image5Button(_ sender: UIButton) {
         playAudioFile5()
     }
     
-    @IBOutlet weak var Image6: UIImageView!
-    var image6 = #imageLiteral(resourceName: "welcome to chilis")
     @IBAction func Image6Button(_ sender: UIButton) {
         playAudioFile6()
     }
     
-    @IBOutlet weak var Image7: UIImageView!
-    var image7 = #imageLiteral(resourceName: "Big Time Rush")
     @IBAction func Image7Button(_ sender: UIButton) {
         playAudioFile7()
     }
     
-    @IBOutlet weak var Image8: UIImageView!
-    var image8 = #imageLiteral(resourceName: "give me my hat back jordan")
     @IBAction func Image8Button(_ sender: UIButton) {
         playAudioFile8()
     }
     
-    @IBOutlet weak var Image9: UIImageView!
-    var image9 = #imageLiteral(resourceName: "iridocyclitis")
     @IBAction func Image9Button(_ sender: UIButton) {
         playAudioFile9()
     }
     
-    @IBOutlet weak var Image10: UIImageView!
-    var image10 =  #imageLiteral(resourceName: "i aint get no sleep cause of yall")
     @IBAction func Image10Button(_ sender: UIButton) {
         playAudioFile10()
     }
     
-    @IBOutlet weak var Image11: UIImageView!
-    var image11 = #imageLiteral(resourceName: "sings chandelier")
     @IBAction func Image11Button(_ sender: UIButton) {
         playAudioFile11()
     }
     
-    @IBOutlet weak var Image12: UIImageView!
-    var image12 = #imageLiteral(resourceName: "thats my opinion")
     @IBAction func Image12Button(_ sender: UIButton) {
         playAudioFile12()
     }

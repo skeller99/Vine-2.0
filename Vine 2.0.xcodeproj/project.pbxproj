@@ -14,7 +14,6 @@
 		BC01FB0C1FFD253F0027C1AD /* Vine_2_0.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BC01FB0A1FFD253F0027C1AD /* Vine_2_0.xcdatamodeld */; };
 		BC01FB0E1FFD253F0027C1AD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC01FB0D1FFD253F0027C1AD /* Assets.xcassets */; };
 		BC01FB111FFD25400027C1AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC01FB0F1FFD25400027C1AD /* LaunchScreen.storyboard */; };
-		BC17968920051F5100C3E9D4 /* MattCorbyResolution.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC17968820051F5100C3E9D4 /* MattCorbyResolution.mp3 */; };
 		BC57FE9420090DC60067117A /* I Smell Like Beef.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC57FE9320090DC50067117A /* I Smell Like Beef.mp3 */; };
 		BC57FE962009105D0067117A /* look at all those chickens.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC57FE952009105D0067117A /* look at all those chickens.mp3 */; };
 		BC57FE98200910B90067117A /* Almost Dropped His CroissantLDTbest Vines.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC57FE97200910B90067117A /* Almost Dropped His CroissantLDTbest Vines.mp3 */; };
@@ -40,7 +39,6 @@
 		BC01FB0D1FFD253F0027C1AD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BC01FB101FFD25400027C1AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BC01FB121FFD25400027C1AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BC17968820051F5100C3E9D4 /* MattCorbyResolution.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = MattCorbyResolution.mp3; path = ../../../../Downloads/MattCorbyResolution.mp3; sourceTree = "<group>"; };
 		BC57FE9320090DC50067117A /* I Smell Like Beef.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "I Smell Like Beef.mp3"; sourceTree = "<group>"; };
 		BC57FE952009105D0067117A /* look at all those chickens.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "look at all those chickens.mp3"; sourceTree = "<group>"; };
 		BC57FE97200910B90067117A /* Almost Dropped His CroissantLDTbest Vines.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Almost Dropped His CroissantLDTbest Vines.mp3"; sourceTree = "<group>"; };
@@ -87,7 +85,6 @@
 			isa = PBXGroup;
 			children = (
 				BC01FB031FFD253F0027C1AD /* AppDelegate.swift */,
-				BC17968820051F5100C3E9D4 /* MattCorbyResolution.mp3 */,
 				BC57FE9320090DC50067117A /* I Smell Like Beef.mp3 */,
 				BC57FE952009105D0067117A /* look at all those chickens.mp3 */,
 				BC57FE97200910B90067117A /* Almost Dropped His CroissantLDTbest Vines.mp3 */,
@@ -187,7 +184,6 @@
 				BC57FEA0200E43620067117A /* SOMEBODY TOUCHA MY SPAGHET.mp3 in Resources */,
 				BC57FE9420090DC60067117A /* I Smell Like Beef.mp3 in Resources */,
 				BC57FEAA200E4B5B0067117A /* Scared Man Sings Chandelier.mp3 in Resources */,
-				BC17968920051F5100C3E9D4 /* MattCorbyResolution.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
