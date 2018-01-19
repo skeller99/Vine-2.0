@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5960F40A20123BE4009F063E /* gifGif.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5960F40920123BE4009F063E /* gifGif.gif */; };
+		5960F40C20123BF9009F063E /* theregif.giffy.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5960F40B20123BF9009F063E /* theregif.giffy.gif */; };
+		5960F40E20123C36009F063E /* gif.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5960F40D20123C35009F063E /* gif.gif */; };
+		5960F41020123C5A009F063E /* giffy.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5960F40F20123C5A009F063E /* giffy.gif */; };
 		598280A120066B750079C182 /* SwiftGif.swift in Sources */ = {isa = PBXBuildFile; fileRef = 598280A020066B750079C182 /* SwiftGif.swift */; };
 		BC01FB041FFD253F0027C1AD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC01FB031FFD253F0027C1AD /* AppDelegate.swift */; };
 		BC01FB061FFD253F0027C1AD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC01FB051FFD253F0027C1AD /* ViewController.swift */; };
@@ -14,7 +18,6 @@
 		BC01FB0C1FFD253F0027C1AD /* Vine_2_0.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BC01FB0A1FFD253F0027C1AD /* Vine_2_0.xcdatamodeld */; };
 		BC01FB0E1FFD253F0027C1AD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC01FB0D1FFD253F0027C1AD /* Assets.xcassets */; };
 		BC01FB111FFD25400027C1AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC01FB0F1FFD25400027C1AD /* LaunchScreen.storyboard */; };
-		BC17968920051F5100C3E9D4 /* MattCorbyResolution.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC17968820051F5100C3E9D4 /* MattCorbyResolution.mp3 */; };
 		BC57FE9420090DC60067117A /* I Smell Like Beef.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC57FE9320090DC50067117A /* I Smell Like Beef.mp3 */; };
 		BC57FE962009105D0067117A /* look at all those chickens.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC57FE952009105D0067117A /* look at all those chickens.mp3 */; };
 		BC57FE98200910B90067117A /* Almost Dropped His CroissantLDTbest Vines.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC57FE97200910B90067117A /* Almost Dropped His CroissantLDTbest Vines.mp3 */; };
@@ -31,6 +34,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5960F40920123BE4009F063E /* gifGif.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = gifGif.gif; sourceTree = "<group>"; };
+		5960F40B20123BF9009F063E /* theregif.giffy.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = theregif.giffy.gif; sourceTree = "<group>"; };
+		5960F40D20123C35009F063E /* gif.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = gif.gif; sourceTree = "<group>"; };
+		5960F40F20123C5A009F063E /* giffy.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = giffy.gif; sourceTree = "<group>"; };
 		598280A020066B750079C182 /* SwiftGif.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftGif.swift; sourceTree = "<group>"; };
 		BC01FB001FFD253F0027C1AD /* Vine 2.0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Vine 2.0.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC01FB031FFD253F0027C1AD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -40,7 +47,6 @@
 		BC01FB0D1FFD253F0027C1AD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BC01FB101FFD25400027C1AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BC01FB121FFD25400027C1AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BC17968820051F5100C3E9D4 /* MattCorbyResolution.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = MattCorbyResolution.mp3; path = ../../../../Downloads/MattCorbyResolution.mp3; sourceTree = "<group>"; };
 		BC57FE9320090DC50067117A /* I Smell Like Beef.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "I Smell Like Beef.mp3"; sourceTree = "<group>"; };
 		BC57FE952009105D0067117A /* look at all those chickens.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "look at all those chickens.mp3"; sourceTree = "<group>"; };
 		BC57FE97200910B90067117A /* Almost Dropped His CroissantLDTbest Vines.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Almost Dropped His CroissantLDTbest Vines.mp3"; sourceTree = "<group>"; };
@@ -87,7 +93,6 @@
 			isa = PBXGroup;
 			children = (
 				BC01FB031FFD253F0027C1AD /* AppDelegate.swift */,
-				BC17968820051F5100C3E9D4 /* MattCorbyResolution.mp3 */,
 				BC57FE9320090DC50067117A /* I Smell Like Beef.mp3 */,
 				BC57FE952009105D0067117A /* look at all those chickens.mp3 */,
 				BC57FE97200910B90067117A /* Almost Dropped His CroissantLDTbest Vines.mp3 */,
@@ -101,8 +106,12 @@
 				BC57FEA7200E48280067117A /* I aint get no sleep cause of yall vine.mp3 */,
 				BC57FEA9200E4B5B0067117A /* Scared Man Sings Chandelier.mp3 */,
 				BC57FEAB200E4D770067117A /* Thats my opinion Vine.mp3 */,
+				5960F40B20123BF9009F063E /* theregif.giffy.gif */,
+				5960F40920123BE4009F063E /* gifGif.gif */,
+				5960F40D20123C35009F063E /* gif.gif */,
 				BC01FB051FFD253F0027C1AD /* ViewController.swift */,
 				598280A020066B750079C182 /* SwiftGif.swift */,
+				5960F40F20123C5A009F063E /* giffy.gif */,
 				BC01FB071FFD253F0027C1AD /* Main.storyboard */,
 				BC01FB0D1FFD253F0027C1AD /* Assets.xcassets */,
 				BC01FB0F1FFD25400027C1AD /* LaunchScreen.storyboard */,
@@ -172,12 +181,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC01FB111FFD25400027C1AD /* LaunchScreen.storyboard in Resources */,
+				5960F40C20123BF9009F063E /* theregif.giffy.gif in Resources */,
 				BC57FEA2200E47F70067117A /* Kenny Knox  - Big Time Rush VINE.mp3 in Resources */,
+				5960F40A20123BE4009F063E /* gifGif.gif in Resources */,
+				5960F41020123C5A009F063E /* giffy.gif in Resources */,
 				BC57FEA8200E48280067117A /* I aint get no sleep cause of yall vine.mp3 in Resources */,
 				BC57FE9A200910FB0067117A /* More like hurricane tortilla VINE.mp3 in Resources */,
 				BC01FB0E1FFD253F0027C1AD /* Assets.xcassets in Resources */,
 				BC57FEAC200E4D770067117A /* Thats my opinion Vine.mp3 in Resources */,
 				BC57FE962009105D0067117A /* look at all those chickens.mp3 in Resources */,
+				5960F40E20123C36009F063E /* gif.gif in Resources */,
 				BC57FEA6200E48060067117A /* Iridocyclitis vine  the best thing ever.mp3 in Resources */,
 				BC57FE9C200911A60067117A /* She wants to take a nap.mp3 in Resources */,
 				BC57FE9E200911D50067117A /* Hi Welcome To Chilis Vine.mp3 in Resources */,
@@ -187,7 +200,6 @@
 				BC57FEA0200E43620067117A /* SOMEBODY TOUCHA MY SPAGHET.mp3 in Resources */,
 				BC57FE9420090DC60067117A /* I Smell Like Beef.mp3 in Resources */,
 				BC57FEAA200E4B5B0067117A /* Scared Man Sings Chandelier.mp3 in Resources */,
-				BC17968920051F5100C3E9D4 /* MattCorbyResolution.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
