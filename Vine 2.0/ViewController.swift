@@ -17,25 +17,25 @@ class ViewController: UIViewController{
     var audioPlayer:AVAudioPlayer = AVAudioPlayer()
    
     
-    @IBOutlet weak var gifOne: UIImageView!
-   
-    @IBOutlet weak var gifTwo: UIImageView!
-    
-    @IBOutlet weak var gifThree: UIImageView!
-    
-    @IBOutlet weak var gifFour: UIImageView!
+//    @IBOutlet weak var gifOne: UIImageView!
+//   
+//    @IBOutlet weak var gifTwo: UIImageView!
+//    
+//    @IBOutlet weak var gifThree: UIImageView!
+//    
+//    @IBOutlet weak var gifFour: UIImageView!
     
     
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        gifOne.loadGif(name: "giffy")
+//          gifOne.image = UIImage.gif(name: "jeremy")
         
-        gifTwo.loadGif(name: "theregif")
-        
-        gifThree.loadGif(name: "gif")
-        
-        gifFour.loadGif(name: "gifGif")
+//        gifTwo.loadGif(name: "theregif")
+//
+//        gifThree.loadGif(name: "gif")
+//
+//        gifFour.loadGif(name: "gifGif")
         
         myLabel.textColor = UIColor.white
     }

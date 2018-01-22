@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5959B4B620162F99003B17B2 /* jeremy.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5959B4B520162F98003B17B2 /* jeremy.gif */; };
+		5959B4B8201630A1003B17B2 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5959B4B7201630A1003B17B2 /* ViewController2.swift */; };
 		5960F40A20123BE4009F063E /* gifGif.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5960F40920123BE4009F063E /* gifGif.gif */; };
 		5960F40C20123BF9009F063E /* theregif.giffy.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5960F40B20123BF9009F063E /* theregif.giffy.gif */; };
 		5960F40E20123C36009F063E /* gif.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5960F40D20123C35009F063E /* gif.gif */; };
@@ -34,6 +36,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5959B4B520162F98003B17B2 /* jeremy.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = jeremy.gif; sourceTree = "<group>"; };
+		5959B4B7201630A1003B17B2 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		5960F40920123BE4009F063E /* gifGif.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = gifGif.gif; sourceTree = "<group>"; };
 		5960F40B20123BF9009F063E /* theregif.giffy.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = theregif.giffy.gif; sourceTree = "<group>"; };
 		5960F40D20123C35009F063E /* gif.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = gif.gif; sourceTree = "<group>"; };
@@ -108,11 +112,13 @@
 				BC57FEAB200E4D770067117A /* Thats my opinion Vine.mp3 */,
 				5960F40B20123BF9009F063E /* theregif.giffy.gif */,
 				5960F40920123BE4009F063E /* gifGif.gif */,
+				5959B4B520162F98003B17B2 /* jeremy.gif */,
 				5960F40D20123C35009F063E /* gif.gif */,
 				BC01FB051FFD253F0027C1AD /* ViewController.swift */,
 				598280A020066B750079C182 /* SwiftGif.swift */,
 				5960F40F20123C5A009F063E /* giffy.gif */,
 				BC01FB071FFD253F0027C1AD /* Main.storyboard */,
+				5959B4B7201630A1003B17B2 /* ViewController2.swift */,
 				BC01FB0D1FFD253F0027C1AD /* Assets.xcassets */,
 				BC01FB0F1FFD25400027C1AD /* LaunchScreen.storyboard */,
 				BC01FB121FFD25400027C1AD /* Info.plist */,
@@ -192,6 +198,7 @@
 				BC57FE962009105D0067117A /* look at all those chickens.mp3 in Resources */,
 				5960F40E20123C36009F063E /* gif.gif in Resources */,
 				BC57FEA6200E48060067117A /* Iridocyclitis vine  the best thing ever.mp3 in Resources */,
+				5959B4B620162F99003B17B2 /* jeremy.gif in Resources */,
 				BC57FE9C200911A60067117A /* She wants to take a nap.mp3 in Resources */,
 				BC57FE9E200911D50067117A /* Hi Welcome To Chilis Vine.mp3 in Resources */,
 				BC01FB091FFD253F0027C1AD /* Main.storyboard in Resources */,
@@ -210,6 +217,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5959B4B8201630A1003B17B2 /* ViewController2.swift in Sources */,
 				598280A120066B750079C182 /* SwiftGif.swift in Sources */,
 				BC01FB061FFD253F0027C1AD /* ViewController.swift in Sources */,
 				BC01FB041FFD253F0027C1AD /* AppDelegate.swift in Sources */,

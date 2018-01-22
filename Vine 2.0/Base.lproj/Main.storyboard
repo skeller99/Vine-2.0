@@ -212,10 +212,10 @@
             </objects>
             <point key="canvasLocation" x="376.80000000000001" y="33.733133433283363"/>
         </scene>
-        <!--View Controller-->
+        <!--View Controller2-->
         <scene sceneID="nFi-Uh-K7D">
             <objects>
-                <viewController id="lpK-np-dr1" customClass="ViewController" customModule="Vine_2_0" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="lpK-np-dr1" customClass="ViewController2" customModule="Vine_2_0" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="U8b-MN-RIc">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -241,10 +241,10 @@
                         <viewLayoutGuide key="safeArea" id="XLo-M8-eoc"/>
                     </view>
                     <connections>
-                        <outlet property="gifFour" destination="MdX-bi-OOG" id="YcQ-iy-HmR"/>
-                        <outlet property="gifOne" destination="gtp-Ca-8SD" id="yXP-SA-z2y"/>
-                        <outlet property="gifThree" destination="qYX-kZ-WK5" id="hzX-qm-RuV"/>
-                        <outlet property="gifTwo" destination="bJd-4H-eyx" id="ZNZ-ii-N3G"/>
+                        <outlet property="gifFour" destination="MdX-bi-OOG" id="XOQ-IN-fok"/>
+                        <outlet property="gifOne" destination="gtp-Ca-8SD" id="P9T-Wy-E69"/>
+                        <outlet property="gifThree" destination="qYX-kZ-WK5" id="DqD-WZ-deh"/>
+                        <outlet property="gifTwo" destination="bJd-4H-eyx" id="xfP-kZ-Y0A"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="YF2-Vi-A4l" userLabel="First Responder" sceneMemberID="firstResponder"/>
