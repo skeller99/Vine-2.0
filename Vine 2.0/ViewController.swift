@@ -42,7 +42,7 @@ class ViewController: UIViewController{
     override func viewDidLoad() {
         super.viewDidLoad()
         gifOne.loadGif(name: "giffy")
-        
+    
         gifTwo.loadGif(name: "theregif")
         
         gifThree.loadGif(name: "gif")
