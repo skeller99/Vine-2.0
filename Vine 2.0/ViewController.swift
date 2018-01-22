@@ -41,9 +41,9 @@ class ViewController: UIViewController{
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        gifOne.loadGif(name: "giffy")
-    
-        gifTwo.loadGif(name: "theregif")
+//        gifOne.loadGif(name: "giffy")
+//    
+//        gifTwo.loadGif(name: "theregif")
         
 //        gifTwo.loadGif(name: "theregif")
 //
