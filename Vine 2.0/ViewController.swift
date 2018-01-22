@@ -29,13 +29,13 @@ class ViewController: UIViewController{
     var audioPlayer:AVAudioPlayer = AVAudioPlayer()
    
     
-    @IBOutlet weak var gifOne: UIImageView!
-   
-    @IBOutlet weak var gifTwo: UIImageView!
-    
-    @IBOutlet weak var gifThree: UIImageView!
-    
-    @IBOutlet weak var gifFour: UIImageView!
+//    @IBOutlet weak var gifOne: UIImageView!
+//   
+//    @IBOutlet weak var gifTwo: UIImageView!
+//    
+//    @IBOutlet weak var gifThree: UIImageView!
+//    
+//    @IBOutlet weak var gifFour: UIImageView!
     
     
     
@@ -45,9 +45,11 @@ class ViewController: UIViewController{
     
         gifTwo.loadGif(name: "theregif")
         
-        gifThree.loadGif(name: "gif")
-        
-        gifFour.loadGif(name: "gifGif")
+//        gifTwo.loadGif(name: "theregif")
+//
+//        gifThree.loadGif(name: "gif")
+//
+//        gifFour.loadGif(name: "gifGif")
         
         myLabel.textColor = UIColor.white
         
