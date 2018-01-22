@@ -27,7 +27,7 @@ class ViewController2: UIViewController {
         
         gifTwo.loadGif(name: "giffy")
         
-        gifThree.loadGif(name: "theregif")
+        gifThree.loadGif(name: "jermey")
         
         gifFour.loadGif(name: "gifGif")
 
