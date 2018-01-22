@@ -41,7 +41,9 @@ class ViewController: UIViewController{
     
     override func viewDidLoad() {
         super.viewDidLoad()
-//          gifOne.image = UIImage.gif(name: "jeremy")
+        gifOne.loadGif(name: "giffy")
+    
+        gifTwo.loadGif(name: "theregif")
         
 //        gifTwo.loadGif(name: "theregif")
 //
@@ -55,7 +57,7 @@ class ViewController: UIViewController{
         image2.image = #imageLiteral(resourceName: "Look At All Those Chickens")
         image3.image = #imageLiteral(resourceName: "Almost Dropped My Croissant")
         image4.image = #imageLiteral(resourceName: "More Like Hurricane Tortilla")
-        image5.image = #imageLiteral(resourceName: "More Like Hurricane Tortilla")
+        image5.image = #imageLiteral(resourceName: "Take A Nap")
         image6.image = #imageLiteral(resourceName: "welcome to chilis")
         image7.image = #imageLiteral(resourceName: "Big Time Rush")
         image8.image = #imageLiteral(resourceName: "give me my hat back jordan")
