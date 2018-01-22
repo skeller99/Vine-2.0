@@ -4,7 +4,7 @@
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13173"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -205,6 +205,18 @@
                         <outlet property="Image7" destination="d7C-hg-81t" id="r7N-38-0iX"/>
                         <outlet property="Image8" destination="ybj-MX-OhK" id="ggx-2q-bLk"/>
                         <outlet property="Image9" destination="Bgm-Fc-oFQ" id="GFn-gk-DCz"/>
+                        <outlet property="image1" destination="ic8-ZN-YqV" id="epN-tk-a6G"/>
+                        <outlet property="image10" destination="eBC-9V-a65" id="Lqa-ni-1Jh"/>
+                        <outlet property="image11" destination="C60-Ip-ktg" id="jud-6F-mdC"/>
+                        <outlet property="image12" destination="V8H-L9-G85" id="mim-Xy-EFo"/>
+                        <outlet property="image2" destination="Vmn-QM-H8W" id="hQ8-6u-llI"/>
+                        <outlet property="image3" destination="hyZ-Tf-3YF" id="dsq-N2-dXb"/>
+                        <outlet property="image4" destination="mtb-Ef-CNu" id="XA7-JO-bpF"/>
+                        <outlet property="image5" destination="PQ5-CD-29i" id="BT1-cV-3Bz"/>
+                        <outlet property="image6" destination="gSS-Ad-2FG" id="Pv6-uL-72t"/>
+                        <outlet property="image7" destination="d7C-hg-81t" id="C4j-u6-d3q"/>
+                        <outlet property="image8" destination="ybj-MX-OhK" id="QyZ-mV-aLs"/>
+                        <outlet property="image9" destination="Bgm-Fc-oFQ" id="ir5-YD-4YJ"/>
                         <outlet property="myLabel" destination="ZqN-Sq-rLv" id="opJ-2M-Tuv"/>
                     </connections>
                 </viewController>
